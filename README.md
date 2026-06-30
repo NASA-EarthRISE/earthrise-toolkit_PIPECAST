@@ -57,7 +57,7 @@ pip install pipecast-weather
 ### From Source (Development)
 
 ```bash
-git clone https://github.com/NASA-EarthRISE/PIPECAST.git
+git clone https://github.com/NASA-EarthRISE/earthrise-toolkit_PIPECAST.git
 cd PIPECAST
 pip install -e .
 ```
@@ -70,7 +70,7 @@ pip install pipecast-weather[viz]
 ### Google Colab
 
 ```python
-!pip install git+https://github.com/NASA-EarthRISE/PIPECAST.git
+!pip install git+https://github.com/NASA-EarthRISE/earthrise-toolkit_PIPECAST.git
 ```
 
 ## Quick Start
@@ -302,7 +302,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Install
-!pip install git+https://github.com/NASA-EarthRISE/PIPECAST.git
+!pip install git+https://github.com/NASA-EarthRISE/earthrise-toolkit_PIPECAST.git
 !pip install herbie-data --quiet
 !pip install rasterio
 
