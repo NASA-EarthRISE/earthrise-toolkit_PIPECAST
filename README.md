@@ -489,7 +489,7 @@ If you use PIPECAST in your research:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
 **TL;DR:** Use it, modify it, share it - just keep the copyright notice! 🎉
 
